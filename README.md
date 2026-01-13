@@ -10,6 +10,16 @@ Segment customers using Recency, Frequency, and Monetary value (RFM) to identify
 - Interactive Tableau dashboard with executive summary
 - SQL database integration for advanced analytics
 
+## 📊 Interactive Tableau Dashboard
+
+**[View Live Dashboard on Tableau Public](https://public.tableau.com/views/RFMCustomerSegmentationAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+Explore the interactive RFM Customer Segmentation dashboard featuring:
+- **Executive Summary**: Key metrics and segment distribution
+- **Detailed Analytics**: RFM distribution visualizations
+- **Segment Performance**: Comparative analysis across all segments
+- **Revenue Insights**: Treemap and breakdown by customer segments
+
 ## Data
 
 **Source:** UCI Machine Learning Repository — Online Retail dataset (01/12/2010 to 09/12/2011).  
